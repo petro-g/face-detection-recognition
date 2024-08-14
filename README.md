@@ -88,4 +88,4 @@ It consists of three Python scripts and one folder containing images. The setup 
 ## Setup
 **Clone the Repository:**
    ```bash
-   git clone https://github.com/Allminfatima/face-detection-recognition-project.git
+   git clone https://github.com/petro-g/face-detection-recognition.git
